@@ -1,4 +1,5 @@
-<h1 align="left">Hi , I'm Maksim Vladimirov</h1>
+<h1 align="center">Hi , I'm Maksim Vladimirov</h1>
+
 - 👨‍💻 My tech stack: **HTML, CSS, JS, TS, React**
 
 - 👀 Hobbies other than coding: **🏋️ workout, 🏊‍♂️ swimming, 🤼 wrestling**
