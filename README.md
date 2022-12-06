@@ -11,7 +11,7 @@
 </p> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="vl4dimirov@gmail.com" target="blank"><img align="center" src="https://icons8.com/icon/38159/gmail-logo" alt="fffff" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/vl4dimirov" target="blank"><img align="center" src="https://icons8.com/icon/38159/gmail-logo" alt="fffff" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
