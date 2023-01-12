@@ -3,7 +3,7 @@
 
 - 👀 Hobbies other than coding: **🏋️ workout, 🏊‍♂️ swimming, 🤼 wrestling**
 
-- 📫 How to reach me: **Email vladimirov@gmail.com, Telegram @vl4dimirov**
+- 📫 How to reach me: **Email vladimirov@gmail.com, Telegram [@vl4dimirov](https://t.me/@vl4dimirov)**
 
 
 <h3 align="left">Languages and Tools:</h3>
