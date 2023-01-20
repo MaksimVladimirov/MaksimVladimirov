@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Maksim Vladimirov</h1>
+<h1 align="right">Hi , I'm Maksim Vladimirov</h1>
 
 - 👨‍💻 My tech stack: **HTML, CSS, JS, TS, React**
 
