@@ -1,5 +1,7 @@
 <h1 align="left">Hi , I'm Maksim Vladimirov</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software-engineer)](https://git.io/typing-svg)
+
 - 👨‍💻 My tech stack: **HTML, CSS, JS, TS, React**
 
 - 👀 Hobbies other than coding: **🏋️ workout, 🏊‍♂️ swimming, 🤼 wrestling**
