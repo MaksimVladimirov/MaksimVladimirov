@@ -5,7 +5,7 @@
 
 - 👀 Hobbies other than coding: **🏋️ workout, 🏊‍♂️ swimming, 🤼 wrestling**
 
-- 📫 How to reach me: **Email vladimirov@gmail.com, Telegram [@maksim_vladimirov](https://t.me/@maksim_vladimirov)**
+- 📫 How to reach me: **Email vl4dimirov@gmail.com, Telegram [@maksim_vladimirov](https://t.me/@maksim_vladimirov)**
 
 <hr>
 
