@@ -1,7 +1,7 @@
 <h1 align="left">Hi , I'm Maksim Vladimirov</h1>
 
 
-- 👨‍💻 My tech stack: **HTML, CSS, JS, TS, React**
+- 👨‍💻 My tech stack: **HTML, CSS, Javascript, Typescript, React, VUE, Next.js, Pinia, RTK, MobX**
 
 - 👀 Hobbies other than coding: **🏋️ workout, 🏊‍♂️ swimming, 🤼 wrestling**
 
